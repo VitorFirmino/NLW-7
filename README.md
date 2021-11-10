@@ -41,9 +41,9 @@
 </p>
 
  <p style="display: flex; margin-top: 20px">
-        <img src="https://ibb.co/nBvhVKc" width="32%" alt="">
-        <img src="https://ibb.co/brJG02n" width="32%" alt="">
-        <img src="https://ibb.co/wK9wfJN" width="32%" alt="">
+        <img src="" width="32%" alt="">
+        <img src="" width="32%" alt="">
+        <img src="" width="32%" alt="">
     </p>  
 
 ## 🧪 Technologies
@@ -146,7 +146,7 @@ $ mix phx.server
 ## 💻 Project
 
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during June 20-27, 2021.
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during october 18-24, 2021.
 
 ## 🔖 Layout
 
